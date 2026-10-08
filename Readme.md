@@ -2,6 +2,10 @@
 
 Python analysis and project deliverables for exploring customer delinquency patterns in the TATA Forage project.
 
+## Certification
+
+Verified by Forage (User Verification Code: 6a460628515132a0f9c5930e).
+
 ## Project contents
 
 - `main.py`: validates data and explores delinquency rates, numeric associations, and payment history.
