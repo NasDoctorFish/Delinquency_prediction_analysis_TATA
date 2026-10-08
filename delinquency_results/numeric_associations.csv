@@ -1,0 +1,10 @@
+feature,spearman_correlation
+Age,0.02576382854975139
+Income,0.04661543341798884
+Credit_Utilization,0.03840137785691868
+Missed_Payments,-0.02476044866800188
+Loan_Balance,-0.0036245250423370687
+Debt_to_Income_Ratio,0.030728908675715032
+Account_Tenure,-0.03599349121219574
+Late_Months,
+Missed_Months,

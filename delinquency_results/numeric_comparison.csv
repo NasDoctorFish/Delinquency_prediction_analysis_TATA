@@ -1,0 +1,5 @@
+,Age,Age,Age,Income,Income,Income,Credit_Utilization,Credit_Utilization,Credit_Utilization,Missed_Payments,Missed_Payments,Missed_Payments,Loan_Balance,Loan_Balance,Loan_Balance,Debt_to_Income_Ratio,Debt_to_Income_Ratio,Debt_to_Income_Ratio,Account_Tenure,Account_Tenure,Account_Tenure,Late_Months,Late_Months,Late_Months,Missed_Months,Missed_Months,Missed_Months
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+Delinquent_Account,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.0,420,46.107142857142854,46.0,386,107306.94300518135,106730.0,420,0.48850476959696937,0.483750835624867,420,2.9904761904761905,3.0,398,48708.75628140703,45024.5,420,0.29744456915610357,0.3016339347077065,420,9.842857142857143,10.0,0,,,0,,
+1.0,80,47.1,50.0,75,113902.01333333334,108468.0,80,0.5068868666433832,0.493021475172906,80,2.85,3.0,73,48358.232876712325,48942.0,80,0.306301284699871,0.3032801947027655,80,9.2,9.0,0,,,0,,

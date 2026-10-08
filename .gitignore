@@ -1,0 +1,8 @@
+Forage_files/
+Delinquency_prediction_dataset.xlsx
+
+# Local environment and generated Python files
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
